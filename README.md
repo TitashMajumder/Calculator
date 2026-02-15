@@ -3,29 +3,18 @@ A feature-rich scientific calculator built using Python (Tkinter) with a clean O
 The application supports advanced mathematical operations, safe expression evaluation, and persistent calculation history using SQLite.
 
 ## ✨ Features
-✅ Basic arithmetic operations (+ − × ÷)
-
-✅ Scientific functions: sin, cos, tan, log, ln, √, !
-
-✅ Degree / Radian mode toggle
-
-✅ Percentage calculations
-
-✅ Absolute value support |x|
-
-✅ Parentheses handling
-
-✅ Safe expression evaluation using AST (no eval)
-
-✅ Calculation history stored locally (SQLite)
-
-✅ Reuse previous calculations
-
-✅ Clear history option
-
-✅ Clean OOP-based design
-
-✅ Windows executable support (.exe)
+- Basic arithmetic operations (+ − × ÷)
+- Scientific functions: sin, cos, tan, log, ln, √, !
+- Degree / Radian mode toggle
+- Percentage calculations
+- Absolute value support |x|
+- Parentheses handling
+- Safe expression evaluation using AST (no eval)
+- Calculation history stored locally (SQLite)
+- Reuse previous calculations
+- Clear history option
+- Clean OOP-based design
+- Windows executable support (.exe)
 
 ## 🧠 Project Architecture (OOP)
 ```
@@ -39,24 +28,18 @@ calculator/
 └── README.md
 ```
 ## 🔐 Security Design
-- ❌ No use of eval()
-- ✅ Uses Python ast module for safe evaluation
-- ✅ Only whitelisted operators and functions are allowed
-- ✅ Prevents arbitrary code execution
+- No use of eval()
+- Uses Python ast module for safe evaluation
+- Only whitelisted operators and functions are allowed
+- Prevents arbitrary code execution
 
 ## 🖥️ Screens & UI
-
-Built using Tkinter
-
-Responsive button layout
-
-Keyboard support:
-
-Enter → Calculate
-
-Backspace → Delete last character
-
-Delete → Clear input
+- Built using Tkinter
+- Responsive button layout
+- #### Keyboard support:
+  - Enter → Calculate
+  - Backspace → Delete last character
+  - Delete → Clear input
 
 ## 🗃️ Database (SQLite)
 
@@ -149,3 +132,4 @@ Interested in Software Development, AI & Cybersecurity
 - ⭐ Star the repository
 - 🍴 Fork it
 - 🐞 Open issues for suggestions or bugs
+
