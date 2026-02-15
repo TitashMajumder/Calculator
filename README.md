@@ -96,14 +96,21 @@ Feel free to use, modify, and distribute.
 
 ## 👤 Author
 **Titash Majumder**
+
 B.Tech (Information Technology)
+
 Interested in Software Development, AI & Cybersecurity
+
+🔗 GitHub: https://github.com/TitashMajumder
+
+🔗 LinkedIn: https://www.linkedin.com/in/titash-majumder-38a6261b6/
 
 ## ⭐ Support
 #### If you like this project:
 - ⭐ Star the repository
 - 🍴 Fork it
 - 🐞 Open issues for suggestions or bugs
+
 
 
 
