@@ -36,89 +36,61 @@ calculator/
 ## 🖥️ Screens & UI
 - Built using Tkinter
 - Responsive button layout
-- #### Keyboard support:
+- Keyboard support:
   - Enter → Calculate
   - Backspace → Delete last character
   - Delete → Clear input
 
 ## 🗃️ Database (SQLite)
-
-Stores calculation history locally
-
-Automatically limits history to last 20 calculations
-
-Stored in:
-
+- Stores calculation history locally
+- Automatically limits history to last 20 calculations
+- Stored in:
+```
 %LOCALAPPDATA%/CalculatorAPP/calculator_history.db
+```
 
 ## 🚀 Installation & Usage
 ▶️ Run from Source
 1️⃣ Clone the repository
+```
 git clone https://github.com/TitashMajumder/Calculator.git
 cd Calculator
-
+```
 2️⃣ Run the app
+```
 python Calculator.py
-
-
+```
 Python 3.8+ recommended
 
 ## 🪟 Windows Executable (.exe)
-
 You can download the standalone Windows executable from the GitHub Releases section.
-
-No Python installation required
-
-Built using PyInstaller
-
-If Windows Defender warns:
-
-Click More Info → Run Anyway
+- No Python installation required
+- Built using PyInstaller
+- If Windows Defender warns:
+  - Click More Info → Run Anyway
 
 ## ⚙️ Build EXE (Optional)
+```
 pyinstaller --onefile --windowed --icon=Calculator.ico Calculator.py
-
-
+```
 The executable will be generated inside the dist/ folder.
 
 ## 🧪 Technologies Used
-
-Python 3
-
-Tkinter (GUI)
-
-SQLite3 (local storage)
-
-AST module (secure evaluation)
-
-PyInstaller (packaging)
+- Python 3
+- Tkinter (GUI)
+- SQLite3 (local storage)
+- AST module (secure evaluation)
+- PyInstaller (packaging)
 
 ## 📌 Why This Project?
-
-This project demonstrates:
-
-Strong OOP principles
-
-Secure coding practices
-
-GUI development skills
-
-Local data persistence
-
-Production-ready Python application design
-
-Ideal for:
-
-Academic projects
-
-Resume / portfolio
-
-Interviews
-
-Desktop app deployment
+#### This project demonstrates:
+- Strong OOP principles
+- Secure coding practices
+- GUI development skills
+- Local data persistence
+- Production-ready Python application design
 
 ## 📄 License
-
 This project is released under the MIT License.
 Feel free to use, modify, and distribute.
 
@@ -132,4 +104,5 @@ Interested in Software Development, AI & Cybersecurity
 - ⭐ Star the repository
 - 🍴 Fork it
 - 🐞 Open issues for suggestions or bugs
+
 
