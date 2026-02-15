@@ -37,9 +37,9 @@ calculator/
 - Built using Tkinter
 - Responsive button layout
 - Keyboard support:
- - Enter → Calculate
- - Backspace → Delete last character
- - Delete → Clear input
+  - Enter → Calculate
+  - Backspace → Delete last character
+  - Delete → Clear input
 
 ## 🗃️ Database (SQLite)
 - Stores calculation history locally
@@ -67,7 +67,7 @@ You can download the standalone Windows executable from the GitHub Releases sect
 - No Python installation required
 - Built using PyInstaller
 - If Windows Defender warns:
- - Click More Info → Run Anyway
+Click More Info → Run Anyway
 
 ## ⚙️ Build EXE (Optional)
 ```
@@ -95,15 +95,16 @@ This project is released under the MIT License.
 Feel free to use, modify, and distribute.
 
 ## 👤 Author
-> **Titash Majumder**
-> B.Tech (Information Technology)
-> Interested in Software Development, AI & Cybersecurity
+**Titash Majumder**
+B.Tech (Information Technology)
+Interested in Software Development, AI & Cybersecurity
 
 ## ⭐ Support
 #### If you like this project:
 - ⭐ Star the repository
 - 🍴 Fork it
 - 🐞 Open issues for suggestions or bugs
+
 
 
 
