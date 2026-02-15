@@ -95,14 +95,10 @@ This project is released under the MIT License.
 Feel free to use, modify, and distribute.
 
 ## 👤 Author
-**Titash Majumder**
-
-B.Tech (Information Technology)
-
-Interested in Software Development, AI & Cybersecurity
-
-🔗 GitHub: https://github.com/TitashMajumder
-
+**Titash Majumder**<br>
+B.Tech (Information Technology)<br>
+Interested in Software Development, AI & Cybersecurity<br>
+🔗 GitHub: https://github.com/TitashMajumder<br>
 🔗 LinkedIn: https://www.linkedin.com/in/titash-majumder-38a6261b6/
 
 ## ⭐ Support
@@ -110,6 +106,7 @@ Interested in Software Development, AI & Cybersecurity
 - ⭐ Star the repository
 - 🍴 Fork it
 - 🐞 Open issues for suggestions or bugs
+
 
 
 
