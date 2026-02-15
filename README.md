@@ -37,9 +37,9 @@ calculator/
 - Built using Tkinter
 - Responsive button layout
 - Keyboard support:
-  - Enter → Calculate
-  - Backspace → Delete last character
-  - Delete → Clear input
+ - Enter → Calculate
+ - Backspace → Delete last character
+ - Delete → Clear input
 
 ## 🗃️ Database (SQLite)
 - Stores calculation history locally
@@ -50,30 +50,30 @@ calculator/
 ```
 
 ## 🚀 Installation & Usage
-▶️ Run from Source
-1️⃣ Clone the repository
+### ▶️ Run from Source
+#### 1️⃣ Clone the repository
 ```
 git clone https://github.com/TitashMajumder/Calculator.git
 cd Calculator
 ```
-2️⃣ Run the app
+#### 2️⃣ Run the app
 ```
 python Calculator.py
 ```
-Python 3.8+ recommended
+- Python 3.8+ recommended
 
 ## 🪟 Windows Executable (.exe)
 You can download the standalone Windows executable from the GitHub Releases section.
 - No Python installation required
 - Built using PyInstaller
 - If Windows Defender warns:
-  - Click More Info → Run Anyway
+ - Click More Info → Run Anyway
 
 ## ⚙️ Build EXE (Optional)
 ```
 pyinstaller --onefile --windowed --icon=Calculator.ico Calculator.py
 ```
-The executable will be generated inside the dist/ folder.
+- The executable will be generated inside the dist/ folder.
 
 ## 🧪 Technologies Used
 - Python 3
@@ -95,14 +95,15 @@ This project is released under the MIT License.
 Feel free to use, modify, and distribute.
 
 ## 👤 Author
-Titash Majumder
-B.Tech (Information Technology)
-Interested in Software Development, AI & Cybersecurity
+> **Titash Majumder**
+> B.Tech (Information Technology)
+> Interested in Software Development, AI & Cybersecurity
 
 ## ⭐ Support
 #### If you like this project:
 - ⭐ Star the repository
 - 🍴 Fork it
 - 🐞 Open issues for suggestions or bugs
+
 
 
